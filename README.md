@@ -1,5 +1,7 @@
 # PDP
   The repository holds the code created as part of a course for my MSc programme.
+  A simple framework for the actor pattern has been implemented in C and there is a problem 
+  specific code that used the framework. 
 
     Spread of parapoxvirus
    
